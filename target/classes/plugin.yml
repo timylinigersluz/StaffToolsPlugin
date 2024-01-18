@@ -1,0 +1,11 @@
+name: StaffTools
+version: '1.0-SNAPSHOT'
+main: ch.ksrminecraft.stafftools.StaffTools
+api-version: '1.20'
+commands:
+  stafftools:
+    description: Öffnet das StaffTools Menü
+    usage: /<command>
+    aliases: [stools, st]
+
+

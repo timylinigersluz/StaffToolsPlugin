@@ -1,0 +1,4 @@
+ch\ksrminecraft\stafftools\listeners\MenuInventoryListener.class
+ch\ksrminecraft\stafftools\commands\OpenMenuCommand.class
+ch\ksrminecraft\stafftools\StaffTools.class
+ch\ksrminecraft\stafftools\utils\MenuUtils.class
